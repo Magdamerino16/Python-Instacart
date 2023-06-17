@@ -7,7 +7,7 @@
 ## Data
 **The dataset comprises information on the following parameters:**
 
-**-customers
-  *orders
-  +products
-  -departments**
+- Customers
+* Orders
++ Products
+- Departments**
