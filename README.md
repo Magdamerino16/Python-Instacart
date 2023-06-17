@@ -10,4 +10,4 @@
 - Customers
 * Orders
 + Products
-- Departments**
+- Departments
