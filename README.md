@@ -8,6 +8,6 @@
 **The dataset comprises information on the following parameters:**
 
 **-customers
-  -orders
-  -products
+  *orders
+  +products
   -departments**
