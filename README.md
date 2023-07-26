@@ -2,7 +2,7 @@
 **This was a data analysis project done in python as part of CareerFoundry's data analysis course.**
 
 ## Objective
-**Instacart es una tienda de comestibles en línea que opera a través de una aplicación. Instacart ya tiene muy buenas ventas, pero quieren saber más sobre sus patrones de ventas. El objetivo de este estudio es analizar el comportamiento del cliente y crear campañas de marketing dirigidas.**
+**Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to know more about your sales patterns. The goal of this study is to analyze customer behavior and create targeted marketing campaigns.**
 
 ## Data
 **The dataset comprises information on the following parameters:**
